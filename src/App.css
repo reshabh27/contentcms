@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.projects-center {
+  display: flex;
+  margin: auto;
+  width: 80%;
+  flex-wrap: wrap;
+  background-color: rgba(226,232,240,255);
+}
+
+.project{
+  margin: 20px;
+}
+
+img{
+  width: 350px;
+}
+
+a {
+  text-decoration: none;
+}
